@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>GameTheoryGame.WebApi.Todo</RootNamespace>
+    <AssemblyName>GameTheoryGame.WebApi.Todo</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\framework\Core\Core.csproj" />
+    <ProjectReference Include="..\..\framework\Infrastructure\Infrastructure.csproj" />
+  </ItemGroup>
+</Project>
